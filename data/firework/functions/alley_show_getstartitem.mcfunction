@@ -1,0 +1,1 @@
+execute as @p run give @s minecraft:spectral_arrow{Tags:["asd"]}

@@ -1,6 +1,6 @@
 {
     "pack":{
-        "pack_format":15,
+        "pack_format": 15,
         "description": "骗赞服烟花系统",
         "supported_formats": [13,15]
     }

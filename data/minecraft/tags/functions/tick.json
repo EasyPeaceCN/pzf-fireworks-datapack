@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "firework:tick"
+        "firework:tick",
+        "firework:alleyshow"
     ]
 }
